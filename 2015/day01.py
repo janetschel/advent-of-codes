@@ -11,4 +11,5 @@ def find_index(chars: []) -> int:
         if (floor == -1):
             return index + 1
 
+
 print("Solution part 2:", find_index(chars))
