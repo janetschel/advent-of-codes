@@ -1,5 +1,5 @@
 with open("./inputs/day01.in") as file:
-    chars: [] = [character for line in file for character in line]
+    chars: [str] = [character for line in file for character in line]
 
 openPar, closePar = chars.count("("), chars.count(")")
 print("Solution part 1:", abs(openPar - closePar))
