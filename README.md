@@ -10,4 +10,4 @@ Currently working on year 2015...
 
 |   2015   |         2016        |   2017   |    2018    |   2019   |
 | :------- | :-----------------: | :------: | :--------: | -------: |
-|  Python  |   (functional) JS   |   Ruby   |   Kotlin   |    ??    |
+|  Python  |   (functional) JS   |   Ruby   |   Kotlin   |   ??     |
